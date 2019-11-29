@@ -12,5 +12,8 @@ Add later
 ## One more section
 More additions
 
+## How to Contribute
+Please fork and issue pull request for review
+
 ## Copyright
 Copyright me
