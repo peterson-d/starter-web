@@ -11,3 +11,6 @@ Add later
 
 ## One more section
 More additions
+
+## Copyright
+Copyright me
