@@ -16,4 +16,4 @@ More additions
 Please fork and issue pull request for review
 
 ## Copyright
-Copyright me
+Copyright me, All rights reserved
