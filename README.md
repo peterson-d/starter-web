@@ -7,7 +7,7 @@ Beginning of purpose section
 Sample website with plenty of files for demos
 
 ## Deployment
-Add later
+Adding a line for rebase example
 
 ## One more section
 More additions
