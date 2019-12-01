@@ -7,7 +7,7 @@ Beginning of purpose section
 Sample website with plenty of files for demos
 
 ## Deployment
-Adding a line for rebase example
+Adding a line for rebase example, then more changes from myfeature branch too.
 
 ## One more section
 More additions
